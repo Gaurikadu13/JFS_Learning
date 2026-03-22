@@ -24,6 +24,7 @@ This folder contains my daily Core Java practice and notes.
 * Class name and file name should be the same
 * Variables are used to store data
 * Arithmetic operators are used to perform calculations
+* JVM get started by java, JVM call main method
 
 ---
 
@@ -69,6 +70,22 @@ Examples:
 * Object
 
 ---
+
+## 📅 Day 2 - Basic
+
+### 📚 Topics Covered:
+
+* Method
+* Classes
+* Scanner class
+
+---
+
+### 💡 What I Learned:
+
+* Easy to esuse and maintain
+* Can divide code into small parts
+* can pass differnt value to variable by creating differnt objects and by making parameterize method
 
 ## 🎯 Goal
 
