@@ -94,7 +94,6 @@ Examples:
 1.In build class -define by java language eg System ,Stirng ,PrintlStream ,etc<br>
 2.custome class - defime by user eg . A ,Student ,Employee ,etc
 
-
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
