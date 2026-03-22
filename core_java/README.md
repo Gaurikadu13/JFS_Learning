@@ -88,10 +88,10 @@ Examples:
 * Can pass differnt value to variable by creating differnt objects and by making parameterize method
 
 ## Class:
-* Class is the logical entity,blueprint,
+* Class is the logical entity,blueprint.
 * We write the method and member in it
 * Two type classes
-1.In build class -define by java language eg System ,Stirng ,PrintlStream ,etc
+1.In build class -define by java language eg System ,Stirng ,PrintlStream ,etc<br>
 2.custome class - defime by user eg . A ,Student ,Employee ,etc
 
 
