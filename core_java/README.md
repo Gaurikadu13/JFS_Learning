@@ -99,17 +99,34 @@ Examples:
 * Scanner class is present in * package.
 * Import the * package outside the class.
 * to Store input use reference variable with next() method as follow 
-## 🔹 Storing User Input using Scanner (Java)
+##  Storing User Input using Scanner (Java)
 
-| Method      | Data Type |
-|------------|----------|
-| next()     | String   |
-| nextLine() | String   |
-| nextInt()  | int      |
-| nextLong() | long     |
-| nextFloat()| float    |
-| nextDouble()| double  |
-| nextBoolean()| boolean|
+| Method           | Data Type |
+|------------------|----------|
+| next()           | String   |
+| nextLine()       | String   |
+| nextInt()        | int      |
+| nextLong()       | long     |
+| nextFloat()      | float    |
+| nextDouble()     | double   |
+| nextBoolean()    | boolean  |
+| next().charAt(0) | char     |
+
+👉 File: [ScannerL.java](./ScannerL.java)
+
+## 📅 Day 3 - Basic
+
+### 📚 Topics Covered:
+
+* Object
+* Conditional Operator
+
+### 💡 What I Learned:
+## Object:
+* Object is the Physical entity,blueprint.
+* Object have state(change object to object) and behaviour(always same).
+* Object means saperate copy of memory and in one class we can create multiple objects
+---
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
