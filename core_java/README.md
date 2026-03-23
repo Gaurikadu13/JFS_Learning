@@ -70,9 +70,9 @@ Examples:
 * Object
 
 
-👉 File: [Arith_oprn.java](./Arith_oprn.java)
-          [Pri_data_type.java](./Pri_data_type.java)
-          [Non_Pri_data_type.java](./Non_Pri_data_type.java)
+👉 File: [Arith_oprn.java](./Arith_oprn.java)<br>
+          [Pri_data_type.java](./Pri_data_type.java)<br>
+          [Non_Pri_data_type.java](./Non_Pri_data_type.java)<br>
           
 
 ---
@@ -118,9 +118,9 @@ Examples:
 | nextBoolean()    | boolean  |
 | next().charAt(0) | char     |
 
-👉 File:  [Method1.java](./Method1.java)
-          [ClassL.java](./ClassL.java)
-          [ScannerL.java](./ScannerL.java)
+👉 File:  [Method1.java](./Method1.java)<br>
+          [ClassL.java](./ClassL.java)<br>
+          [ScannerL.java](./ScannerL.java)<br>
 
 ## 📅 Day 3 - Basic
 
@@ -205,8 +205,9 @@ Used as a short form of if-else to make decisions in one line.
 |----------|--------------------------|
 | ?:       | Ternary (if-else short)  |
 
-👉 File:  [ObjectL.java](./ObjectL.java)
-          [ClassL.java](./ClassL.java)
+👉 File:  [ObjectL.java](./ObjectL.java)<br>
+          [ClassL.java](./ClassL.java)<br>
+           [Operator.java](./Operator.java)<br>
 ---
 ## 🎯 Goal
 
