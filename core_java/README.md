@@ -205,10 +205,12 @@ Used as a short form of if-else to make decisions in one line.
 |----------|--------------------------|
 | ?:       | Ternary (if-else short)  |
 
+
 👉 File:  [ObjectL.java](./ObjectL.java)<br>
           [ClassL.java](./ClassL.java)<br>
            [Operator.java](./Operator.java)<br>
 ---
+
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
