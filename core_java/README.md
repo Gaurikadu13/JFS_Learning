@@ -83,17 +83,33 @@ Examples:
 
 ### 💡 What I Learned:
 ## Method:
-* Easy to esuse and maintain
-* Can divide code into small parts
-* Can pass differnt value to variable by creating differnt objects and by making parameterize method
+* Easy to esuse and maintain.
+* Can divide code into small parts.
+* Can pass differnt value to variable by creating differnt objects and by making parameterize method.
 
 ## Class:
 * Class is the logical entity,blueprint.
-* We write the method and member in it
+* We write the method and member in it.
 * Two type classes
-1.In build class -define by java language eg System ,Stirng ,PrintlStream ,etc<br>
-2.custome class - defime by user eg . A ,Student ,Employee ,etc
+1.In build class -define by java language eg System ,Stirng ,PrintlStream ,etc.<br>
+2.custome class - defime by user eg . A ,Student ,Employee ,etc.
 
+## Scanner:
+* Scanner is the class which is used to tate a input from keybord.
+* Scanner class is present in * package.
+* Import the * package outside the class.
+* to Store input use reference variable with next() method as follow 
+## 🔹 Storing User Input using Scanner (Java)
+
+| Method      | Data Type |
+|------------|----------|
+| next()     | String   |
+| nextLine() | String   |
+| nextInt()  | int      |
+| nextLong() | long     |
+| nextFloat()| float    |
+| nextDouble()| double  |
+| nextBoolean()| boolean|
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
