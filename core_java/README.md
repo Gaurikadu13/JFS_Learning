@@ -69,6 +69,12 @@ Examples:
 * Class
 * Object
 
+
+👉 File: [Arith_oprn.java](./Arith_oprn.java)
+          [Pri_data_type.java](./Pri_data_type.java)
+          [Non_Pri_data_type.java](./Non_Pri_data_type.java)
+          
+
 ---
 
 ## 📅 Day 2 - Basic
@@ -112,13 +118,16 @@ Examples:
 | nextBoolean()    | boolean  |
 | next().charAt(0) | char     |
 
-👉 File: [ScannerL.java](./ScannerL.java)
+👉 File:  [Method1.java](./Method1.java)
+          [ClassL.java](./ClassL.java)
+          [ScannerL.java](./ScannerL.java)
 
 ## 📅 Day 3 - Basic
 
 ### 📚 Topics Covered:
 
 * Object
+* Realtional Operator
 * Conditional Operator
 
 ### 💡 What I Learned:
@@ -126,6 +135,78 @@ Examples:
 * Object is the Physical entity,blueprint.
 * Object have state(change object to object) and behaviour(always same).
 * Object means saperate copy of memory and in one class we can create multiple objects
+
+##  Operator:
+* An operator is a symbol used to perform operations on variables and values.
+
+# 1. Arithmetic Operators
+
+Used to perform mathematical operations like addition, subtraction, multiplication, etc.
+
+| Operator | Meaning        |
+|----------|----------------|
+| +        | Addition       |
+| -        | Subtraction    |
+| *        | Multiplication |
+| /        | Division       |
+| %        | Modulus        |
+
+# 2. Relational Operators
+
+Used to compare two values and return true or false.
+
+
+| Operator | Meaning                      |
+|----------|------------------------------|
+| ==       | Equal to                     |
+| !=       | Not equal to                 |
+| >        | Greater than                 |
+| <        | Less than                    |
+| >=       | Greater than or equal to     |
+| <=       | Less than or equal to        |
+
+# 3. Logical Operators
+
+Used to combine multiple conditions and return true or false.
+
+| Operator | Meaning        |
+|----------|----------------|
+| &&       | Logical AND    |
+| \|\|     | Logical OR     |
+| !        | Logical NOT    |
+
+# 4. Assignment Operators
+
+Used to assign values to variables.
+
+| Operator | Meaning              |
+|----------|----------------------|
+| =        | Assign value         |
+| +=       | Add and assign       |
+| -=       | Subtract and assign  |
+| *=       | Multiply and assign  |
+| /=       | Divide and assign    |
+| %=       | Modulus and assign   |
+
+# 5. Increment/Decrement
+
+Used to increase or decrease the v
+
+| Operator | Meaning        |
+|----------|----------------|
+| ++       | Increment      |
+| --       | Decrement      |
+
+# 6. Conditional Operator
+
+Used as a short form of if-else to make decisions in one line.
+
+| Operator | Meaning                  |
+|----------|--------------------------|
+| ?:       | Ternary (if-else short)  |
+
+👉 File:  [ObjectL.java](./ObjectL.java)
+          [ClassL.java](./ClassL.java)
 ---
 ## 🎯 Goal
 
