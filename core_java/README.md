@@ -139,7 +139,7 @@ Examples:
 ##  Operator:
 * An operator is a symbol used to perform operations on variables and values.
 
-# 1. Arithmetic Operators
+### 1. Arithmetic Operators
 
 Used to perform mathematical operations like addition, subtraction, multiplication, etc.
 
@@ -151,7 +151,7 @@ Used to perform mathematical operations like addition, subtraction, multiplicati
 | /        | Division       |
 | %        | Modulus        |
 
-# 2. Relational Operators
+### 2. Relational Operators
 
 Used to compare two values and return true or false.
 
@@ -165,7 +165,7 @@ Used to compare two values and return true or false.
 | >=       | Greater than or equal to     |
 | <=       | Less than or equal to        |
 
-# 3. Logical Operators
+### 3. Logical Operators
 
 Used to combine multiple conditions and return true or false.
 
@@ -175,7 +175,7 @@ Used to combine multiple conditions and return true or false.
 | \|\|     | Logical OR     |
 | !        | Logical NOT    |
 
-# 4. Assignment Operators
+### 4. Assignment Operators
 
 Used to assign values to variables.
 
@@ -188,7 +188,7 @@ Used to assign values to variables.
 | /=       | Divide and assign    |
 | %=       | Modulus and assign   |
 
-# 5. Increment/Decrement
+### 5. Increment/Decrement
 
 Used to increase or decrease the v
 
@@ -197,7 +197,7 @@ Used to increase or decrease the v
 | ++       | Increment      |
 | --       | Decrement      |
 
-# 6. Conditional Operator
+### 6. Conditional Operator
 
 Used as a short form of if-else to make decisions in one line.
 
