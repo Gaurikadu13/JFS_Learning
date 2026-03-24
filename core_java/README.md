@@ -205,12 +205,26 @@ Used as a short form of if-else to make decisions in one line.
 |----------|--------------------------|
 | ?:       | Ternary (if-else short)  |
 
-
-
+---
 👉 File: [Arith_oprn.java](./Arith_oprn.java)<br>
           [Pri_data_type.java](./Pri_data_type.java)<br>
           [Non_Pri_data_type.java](./Non_Pri_data_type.java)<br>
 ---
+
+## 📅 Day 4 - Basic
+
+### 📚 Topics Covered:
+
+* Conditional Statement
+
+### 💡 What I Learned:
+## Object:
+* Use to manipulate the flow to over program
+* There are three type of conditional operator
+
+1.If block :- Check the condition if true,exectute if block
+2.If else block :- Check the condition if true,exectute if block otherwise execute else block
+3.Else if block :- It is called as else if ladder , Check multipli conditions
 
 ## 🎯 Goal
 
