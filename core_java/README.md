@@ -205,6 +205,14 @@ Used as a short form of if-else to make decisions in one line.
 |----------|--------------------------|
 | ?:       | Ternary (if-else short)  |
 
+*
+
+
+👉 File: [Arith_oprn.java](./Arith_oprn.java)<br>
+          [Pri_data_type.java](./Pri_data_type.java)<br>
+          [Non_Pri_data_type.java](./Non_Pri_data_type.java)<br>
+          
+
 
 👉 File: [Arith_oprn.java](./Arith_oprn.java)<br>
           [Pri_data_type.java](./Pri_data_type.java)<br>
