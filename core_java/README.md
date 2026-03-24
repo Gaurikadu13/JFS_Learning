@@ -222,8 +222,8 @@ Used as a short form of if-else to make decisions in one line.
 * Use to manipulate the flow to over program
 * There are three type of conditional operator
 
-1.If block :- Check the condition if true,exectute if block
-2.If else block :- Check the condition if true,exectute if block otherwise execute else block
+1.If block :- Check the condition if true,exectute if block<br>
+2.If else block :- Check the condition if true,exectute if block otherwise execute else block<br>
 3.Else if block :- It is called as else if ladder , Check multipli conditions
 
 ## 🎯 Goal
