@@ -256,6 +256,7 @@ Used as a short form of if-else to make decisions in one line.
 
 
 👉 File: [Switch_case.java](./Switch_case.java)<br>
+          [Switch_case2.java](./Switch_case2.java)<br>
           
 ---
 
