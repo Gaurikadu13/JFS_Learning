@@ -122,6 +122,8 @@ Examples:
           [ClassL.java](./ClassL.java)<br>
           [ScannerL.java](./ScannerL.java)<br>
 
+---
+
 ## 📅 Day 3 - Basic
 
 ### 📚 Topics Covered:
@@ -227,6 +229,30 @@ Used as a short form of if-else to make decisions in one line.
 1. If block :- Check the condition if true,exectute if block<br>
 2. If else block :- Check the condition if true,exectute if block otherwise execute else block<br>
 3. Else if block :- It is called as else if ladder , Check multipli conditions
+
+
+👉 File: [IF.java](./IF.java)<br>
+          [If_else.java](./If_else.java)<br>
+          [Else_if.java](./Else_if.java)<br>
+          
+---
+
+## 📅 Day 5 - Basic
+
+### 📚 Topics Covered:
+
+* Switch_case statement
+* break keyword
+
+### 💡 What I Learned:
+## Object:
+* Switch Case is the alternative of if_else.
+* It is use when we want to choose a choice from multiple options.
+* If the input matches with case the it will execute the respective case.
+* if no case match execute the default condition.
+* Break keyword is use for skip the next belonging code after break it will left the switch case.
+
+
 
 
 👉 File: [IF.java](./IF.java)<br>
