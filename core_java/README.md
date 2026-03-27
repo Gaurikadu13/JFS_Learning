@@ -279,8 +279,8 @@ Used as a short form of if-else to make decisions in one line.
 
 ### 1.For loop
 syntax: for(intialize , condition , increament/decreament)<br>
-{
-    //Code to be execute.
+{  
+    //Code to be execute.  
 }
 
 eg.
