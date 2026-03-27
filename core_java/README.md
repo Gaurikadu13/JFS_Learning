@@ -283,7 +283,7 @@ In while loop first the condition check and the execute.
 
 syntax: for(intialize , condition , increament/decreament)<br>
 {  
-    //Code to be execute.  
+      //Code to be execute.  
 }
 
 eg.
@@ -291,6 +291,8 @@ for(int i=0 ; i<=5 ; i++)
 {  
        System.out.println(i);  
 }
+
+👉 File: [For.java](./For.java)<br>
 
 ### 2.While loop  
 
@@ -310,6 +312,8 @@ while(i<=5)
         System.out.println("Hello !");  
         i++;  
 }
+
+👉 File: [While.java](./While.java)<br>
 
 ### 3.Do-while loop  
 
@@ -333,8 +337,7 @@ do
 while(i<=5);
 
 
-👉 File: [Switch_case.java](./Switch_case.java)<br>
-          [Switch_case2.java](./Switch_case2.java)<br>
+👉 File: [Do_while.java](./Do_while.java)<br>
           
 ---
 
