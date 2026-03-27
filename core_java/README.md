@@ -278,7 +278,7 @@ Used as a short form of if-else to make decisions in one line.
 3. Do-while Loop
 
 ### 1.For loop
-syntax: for(intialize , condition , increament/decreament)
+syntax: for(intialize , condition , increament/decreament)<br>
 {
     //Code to be execute.
 }
