@@ -289,7 +289,7 @@ syntax: for(intialize , condition , increament/decreament)<br>
 eg.
 for(int i=0 ; i<=5 ; i++)  
 {  
-   System.out.println(i);  
+       System.out.println(i);  
 }
 
 ### 2.While loop  
@@ -299,16 +299,16 @@ In while loop first the condition check and the execute.
 syntax: intialization  
 while(condition)  
 {  
-    //code to be execute  
-    inceament/decreament
+        //code to be execute  
+        inceament/decreament
 }  
 
 eg .
 int i=0;  
 while(i<=5)  
 {  
-    System.out.println("Hello !");  
-    i++;  
+        System.out.println("Hello !");  
+        i++;  
 }
 
 ### 3.Do-while loop  
@@ -318,8 +318,8 @@ In do-while loop first the it execute  and then check condition.
 syntax: intialization  
 do  
 {  
-    //code to be execute  
-    inceament/decreament
+         //code to be execute  
+        inceament/decreament
 }  
 while(i<=5);
 
@@ -327,8 +327,8 @@ eg .
 int i=0;  
 do  
 {  
-    System.out.println("Hello !");  
-    i++;  
+        System.out.println("Hello !");  
+        i++;  
 }
 while(i<=5);
 
