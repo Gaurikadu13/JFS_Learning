@@ -260,6 +260,39 @@ Used as a short form of if-else to make decisions in one line.
           
 ---
 
+## 📅 Day 6 - Basic
+
+### 📚 Topics Covered:
+
+* Loops
+
+### 💡 What I Learned:
+## Object:
+* Looping is use to print or execute multiple interation.
+* It is use when we know the exact number of iterations.
+* Loop we do initialization,check condition,increament.
+* There are three loops
+
+1. For Loop
+2. While Loop
+3. Do-while Loop
+
+### 1.For loop
+syntax: for(intialize , condition , increament/decreament)
+{
+    //Code to be execute.
+}
+
+eg.
+for(int i=0 ; i<=5 ; i++)
+{
+   System.out.println(i);
+}
+👉 File: [Switch_case.java](./Switch_case.java)<br>
+          [Switch_case2.java](./Switch_case2.java)<br>
+          
+---
+
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
