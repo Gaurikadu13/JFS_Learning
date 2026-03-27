@@ -277,17 +277,62 @@ Used as a short form of if-else to make decisions in one line.
 2. While Loop
 3. Do-while Loop
 
-### 1.For loop
+### 1.For loop  
+
+In while loop first the condition check and the execute.  
+
 syntax: for(intialize , condition , increament/decreament)<br>
 {  
     //Code to be execute.  
 }
 
 eg.
-for(int i=0 ; i<=5 ; i++)
-{
-   System.out.println(i);
+for(int i=0 ; i<=5 ; i++)  
+{  
+   System.out.println(i);  
 }
+
+### 2.While loop  
+
+In while loop first the condition check and the execute.  
+
+syntax: intialization  
+while(condition)  
+{  
+    //code to be execute  
+    inceament/decreament
+}  
+
+eg .
+int i=0;  
+while(i<=5)  
+{  
+    System.out.println("Hello !");  
+    i++;  
+}
+
+### 3.Do-while loop  
+
+In do-while loop first the it execute  and then check condition.  
+
+syntax: intialization  
+do  
+{  
+    //code to be execute  
+    inceament/decreament
+}  
+while(i<=5);
+
+eg .
+int i=0;  
+do  
+{  
+    System.out.println("Hello !");  
+    i++;  
+}
+while(i<=5);
+
+
 👉 File: [Switch_case.java](./Switch_case.java)<br>
           [Switch_case2.java](./Switch_case2.java)<br>
           
