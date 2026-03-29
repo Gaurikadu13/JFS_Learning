@@ -14,6 +14,26 @@ Currently, it focuses on **Core Java concepts up to Constructors**.
 
 ---
 
+## 📂 Project Structure
+## 📂 Project Structure
+
+```
+JFS_Learning/
+│
+├── core_java/  
+│
+└── README.md
+```
+
+---
+
+## 📘 Core Java
+
+All Core Java programs are stored inside the **`core_java`** folder 📁  
+It includes programs from basic concepts to constructors.
+
+---
+
 ## 📂 Topics Covered
 
 - Basics of Java  
@@ -21,6 +41,9 @@ Currently, it focuses on **Core Java concepts up to Constructors**.
 - Operators  
 - Conditional Statements (if-else, switch)  
 - Loops (for, while, do-while)  
+- Arrays  
+- Strings  
+- Methods  
 - Classes and Objects  
 - Constructors  
 
@@ -46,12 +69,17 @@ Currently, it focuses on **Core Java concepts up to Constructors**.
    cd JFS_Learning
    ```
 
-3. Compile the program  
+3. Navigate to core_java folder  
+   ```bash
+   cd core_java
+   ```
+
+4. Compile the program  
    ```bash
    javac FileName.java
    ```
 
-4. Run the program  
+5. Run the program  
    ```bash
    java FileName
    ```
