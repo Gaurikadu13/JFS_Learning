@@ -346,6 +346,7 @@ while(i<=5);
 ### 📚 Topics Covered:
 
 * Constructor
+* this keyword
 
 ### 💡 What I Learned:
 ## Object:
@@ -359,6 +360,8 @@ while(i<=5);
 2. parameterize constructor
 3. non-parameterize constructor
 
+* This keyword is to refer current object.
+* It will store or pointout the current object
 
 👉 File: [Switch_case.java](./Switch_case.java)<br>
           [Switch_case2.java](./Switch_case2.java)<br>
