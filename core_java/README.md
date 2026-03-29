@@ -341,6 +341,30 @@ while(i<=5);
           
 ---
 
+## 📅 Day 7 - Basic
+
+### 📚 Topics Covered:
+
+* Constructor
+
+### 💡 What I Learned:
+## Object:
+* Constructor name is same name as class name.
+* If class not have any constructor, constructor put default constructor
+* One class class have multiple constructor.
+* Constructor is to intialize the instace variable of class.
+* Constructor automaticaly created when class created.
+* Type of constructor:
+1. default constructor
+2. parameterize constructor
+3. non-parameterize constructor
+
+
+👉 File: [Switch_case.java](./Switch_case.java)<br>
+          [Switch_case2.java](./Switch_case2.java)<br>
+          
+---
+
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
