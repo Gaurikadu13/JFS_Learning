@@ -1,63 +1,82 @@
-# JFS_Learning
-📚 JFS Learning Repository
+# 📚 JFS Learning Repository
 
-Welcome to my Java Full Stack (JFS) Learning Repository 🚀
-This repository documents my learning journey in Core Java, currently covering concepts up to Constructors.
+This repository contains my learning journey in **Java Full Stack Development (JFS)** 🚀  
+Currently, it focuses on **Core Java concepts up to Constructors**.
 
-🎯 Objective
+---
 
-The main goal of this repository is to:
+## 🎯 Objective
 
-Build a strong foundation in Core Java
-Practice programming concepts step by step
-Improve logical and problem-solving skills
-Track my daily progress in learning Java
-📂 Topics Covered (Till Now)
+- Build a strong foundation in Core Java 💡  
+- Practice programming concepts step by step 🧠  
+- Improve problem-solving skills ⚡  
+- Track learning progress 📈  
 
-✔️ Basics of Java
-✔️ Data Types & Variables
-✔️ Operators
-✔️ Conditional Statements (if-else, switch)
-✔️ Loops (for, while, do-while)
-✔️ Arrays
-✔️ Strings
-✔️ Methods / Functions
-✔️ Classes & Objects
-✔️ Constructors
+---
 
-🛠️ Technologies Used
-Java
-VS Code / IntelliJ IDEA
-Git & GitHub
-🚀 How to Run the Code
+## 📂 Topics Covered
 
-Clone the repository:
+- Basics of Java  
+- Data Types and Variables  
+- Operators  
+- Conditional Statements (if-else, switch)  
+- Loops (for, while, do-while)  
+- Classes and Objects  
+- Constructors  
 
-git clone https://github.com/Gaurikadu13/JFS_Learning.git
-Open the project in your IDE
+---
 
-Compile and run any file:
+## 🛠️ Technologies Used
 
-javac FileName.java
-java FileName
-📈 Learning Status
+- Java ☕  
+- VS Code / IntelliJ IDEA 💻  
+- Git and GitHub 🔧  
 
-📌 Currently Completed: Core Java (Till Constructors)
-📌 Next Target:
+---
 
-Inheritance
-Polymorphism
-Abstraction
-Encapsulation
-🌟 Future Plans
-Complete Advanced Java
-Start Web Development (Frontend + Backend)
-Build Full Stack Projects
-👩‍💻 Author
+## 🚀 How to Run
 
-Gauri Kadu
-CSE Student | Aspiring Full Stack Developer 🚀
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Gaurikadu13/JFS_Learning.git
+   ```
 
-⭐ Support
+2. Go to project folder  
+   ```bash
+   cd JFS_Learning
+   ```
 
-If you find this repository helpful, don’t forget to star ⭐ it!
+3. Compile the program  
+   ```bash
+   javac FileName.java
+   ```
+
+4. Run the program  
+   ```bash
+   java FileName
+   ```
+
+---
+
+## 📈 Current Status
+
+✅ Completed: Core Java (till Constructors)
+
+🔜 Upcoming Topics:
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Encapsulation  
+
+---
+
+## 👩‍💻 Author
+
+Gauri Kadu  
+CSE Student | Aspiring Full Stack Developer 🚀  
+
+---
+
+## ⭐ Support
+
+If you like this repository, don’t forget to give it a ⭐
