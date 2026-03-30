@@ -37,7 +37,5 @@ public class Set_get
         System.out.println(s1.getRollno());
         System.out.println(s1.getName());
 
-
-
     }
 }
