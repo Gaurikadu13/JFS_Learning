@@ -1,4 +1,4 @@
-public void Set_get
+public class Set_get
 {
     int rollno;
     String name;
@@ -10,7 +10,7 @@ public void Set_get
     {
         return rollno;
     }
-    public void setName(int rollno)
+    public void setName(String name)
     {
         this.name=name;
     }
@@ -29,8 +29,8 @@ public void Set_get
 
         s.setRollno(3);
         s.setName("Priya");
-        s.setRollno(4);
-        s.setName("Riya");
+        s1.setRollno(4);
+        s1.setName("Riya");
 
         System.out.println(s.getRollno());
         System.out.println(s.getName());
