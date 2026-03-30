@@ -208,9 +208,7 @@ Used as a short form of if-else to make decisions in one line.
 | ?:       | Ternary (if-else short)  |
 
 
-👉 File: [Arith_oprn.java](./Arith_oprn.java)<br>
-          [Pri_data_type.java](./Pri_data_type.java)<br>
-          [Non_Pri_data_type.java](./Non_Pri_data_type.java)<br>
+👉 File: [Operator.java](./Operator.java)<br>
           
 
 ---
@@ -222,7 +220,7 @@ Used as a short form of if-else to make decisions in one line.
 * Conditional Statement
 
 ### 💡 What I Learned:
-## Object:
+## Conditional Statement:
 * Use to manipulate the flow to over program
 * There are three type of conditional operator
 
@@ -245,7 +243,7 @@ Used as a short form of if-else to make decisions in one line.
 * break keyword
 
 ### 💡 What I Learned:
-## Object:
+## Switch_case:
 * Switch Case is the alternative of if_else.
 * It is use when we want to choose a choice from multiple options.
 * If the input matches with case the it will execute the respective case.
@@ -267,7 +265,7 @@ Used as a short form of if-else to make decisions in one line.
 * Loops
 
 ### 💡 What I Learned:
-## Object:
+## Loops:
 * Looping is use to print or execute multiple interation.
 * It is use when we know the exact number of iterations.
 * Loop we do initialization,check condition,increament.
@@ -349,7 +347,7 @@ while(i<=5);
 * this keyword
 
 ### 💡 What I Learned:
-## Object:
+## Constructor:
 * Constructor name is same name as class name.
 * If class not have any constructor, constructor put default constructor
 * One class class have multiple constructor.
@@ -367,6 +365,26 @@ while(i<=5);
           [Student_constructor.java](./Student_constructor.java)<br>
           
 ---
+
+## 📅 Day 8 - Basic
+
+### 📚 Topics Covered:
+
+* Setter-getter method
+
+### 💡 What I Learned:
+## Setter-getter method:
+* Setter-getter method is use to take a input and to return it.
+* setter is use to set the value .
+* getter is use to get the value.
+* the return type of setter method is always void but return type of getter is according to the instance variable.
+
+👉 File: [Constructor.java](./Constructor.java)<br>
+          [Student_constructor.java](./Student_constructor.java)<br>
+          
+---
+
+
 
 ## 🎯 Goal
 
