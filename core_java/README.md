@@ -399,11 +399,12 @@ while(i<=5);
 * Has a relationship called as secondary reference
 * In Has-A relationship we can use one class refernce variable/method in anather class.
 
-## Has-A relationship
+## Has-A relationship using constructor
 * In constructor we pass values at the time of object creation.
 * Other class variable is called by using the (.)
 
 👉 File: [Has_A.java](./Has_A.java)<br>
+          [Has_A_constructor.java](./Has_A_constructor.java)<br>
           
           
 ---
