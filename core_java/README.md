@@ -384,6 +384,23 @@ while(i<=5);
           
 ---
 
+## 📅 Day 9 - Basic
+
+### 📚 Topics Covered:
+
+* Has-A relationship
+
+### 💡 What I Learned:
+## Has-A relationship
+* Has a relationship called as secondary reference
+* In Has-A relationship we can use one class refernce variable/method in anather class.
+* 
+
+👉 File: [Constructor.java](./Constructor.java)<br>
+          [Student_constructor.java](./Student_constructor.java)<br>
+          
+---
+
 
 
 ## 🎯 Goal
