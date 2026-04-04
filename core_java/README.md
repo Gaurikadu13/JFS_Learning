@@ -421,7 +421,6 @@ while(i<=5);
 * we can pass the value throught constructor and get the value throught getter.
 
 👉 File: [Method_parameter.java](./Method_parameter.java)<br>
-          [Has_A_constructor.java](./Has_A_constructor.java)<br>
           
           
 ---
