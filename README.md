@@ -15,7 +15,6 @@ Currently, it focuses on **Core Java concepts up to Constructors**.
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```
 JFS_Learning/

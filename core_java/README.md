@@ -406,6 +406,23 @@ while(i<=5);
 👉 File: [Has_A.java](./Has_A.java)<br>
           [Has_A_constructor.java](./Has_A_constructor.java)<br>
           
+---
+
+## 📅 Day 10 - Basic
+
+### 📚 Topics Covered:
+
+* Method parameter using constructor and getter mehod
+
+### 💡 What I Learned:
+## Has-A relationship
+* we can give the class as a parameter to any method
+* we can access the class variable and method in anather class
+* we can pass the value throught constructor and get the value throught getter.
+
+👉 File: [Method_parameter.java](./Method_parameter.java)<br>
+          [Has_A_constructor.java](./Has_A_constructor.java)<br>
+          
           
 ---
 
