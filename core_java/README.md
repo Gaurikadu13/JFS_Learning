@@ -447,7 +447,8 @@ while(i<=5);
 * In such cases, a method can return an object of the contained class.
 
 
-👉 File: [Method_parameter.java](./Method_parameter.java)<br>
+👉 File: [Method_return_classtype.java](./Method_return_classtype.java)<br>
+          [Method_return_Has_A.java](./Method_return_Has_A.java)<br>
           
           
 ---
