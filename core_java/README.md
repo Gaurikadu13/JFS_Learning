@@ -429,10 +429,6 @@ while(i<=5);
 
 ### 📚 Topics Covered:
 
-* ## 📅 Day 10 - Basic
-
-### 📚 Topics Covered:
-
 * Method return type
 1.Method return type as a class type.
 2.Method return type with Has_A relationship.
