@@ -449,18 +449,6 @@ while(i<=5);
           
 ---
 
-### 💡 What I Learned:
-## Has-A relationship
-* we can give the class as a parameter to any method.
-* we can access the class variable and method in anather class.
-* we can pass the value throught constructor and get the value throught getter.
-
-👉 File: [Method_parameter.java](./Method_parameter.java)<br>
-          
-          
----
-
-
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
