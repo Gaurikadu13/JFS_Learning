@@ -425,6 +425,44 @@ while(i<=5);
           
 ---
 
+## 📅 Day 11 - Basic
+
+### 📚 Topics Covered:
+
+* ## 📅 Day 10 - Basic
+
+### 📚 Topics Covered:
+
+* Method return type
+1.Method return type as a class type.
+2.Method return type with Has_A relationship.
+
+### 💡 What I Learned:
+## Method return type as a class type.
+* method can return an object of a class instead of a primitive data type (like int, float, etc.).
+* This means the return type of the method is a class name.
+
+## Method return type with Has_A relationship.
+* A Has-A relationship means one class contains another class as a member
+* In such cases, a method can return an object of the contained class.
+
+
+👉 File: [Method_parameter.java](./Method_parameter.java)<br>
+          
+          
+---
+
+### 💡 What I Learned:
+## Has-A relationship
+* we can give the class as a parameter to any method.
+* we can access the class variable and method in anather class.
+* we can pass the value throught constructor and get the value throught getter.
+
+👉 File: [Method_parameter.java](./Method_parameter.java)<br>
+          
+          
+---
+
 
 ## 🎯 Goal
 
