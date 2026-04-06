@@ -1,18 +1,19 @@
 public class Final
 {
-    public void m1(final int r)
-    {
-        System.out.println(r);
-    }
-    public void m2(){
-        final int x=5;
-        System.out.println(x);
-        
-    }
-    public static void main(String args[])
-        {
-            Final f=new Final();
-            f.m1(100);
-            f.m2();
-        }
+   int x;
+   public static void main(String args[])
+   {
+    final Final f=new Final();
+    f.x=100;
+    Final f1=new Final();
+    f1.x=200;
+
+    System.out.println(f.x);
+    System.out.println(f1.x);
+
+    // f=f1;  //error
+
+    System.out.println(f.x);
+    System.out.println(f1.x);
+   }
 }
