@@ -421,8 +421,7 @@ while(i<=5);
 * we can pass the value throught constructor and get the value throught getter.
 
 👉 File: [Method_parameter.java](./Method_parameter.java)<br>
-          
-          
+                    
 ---
 
 ## 📅 Day 11 - Basic
@@ -445,10 +444,28 @@ while(i<=5);
 
 👉 File: [Method_return_classtype.java](./Method_return_classtype.java)<br>
           [Method_return_Has_A.java](./Method_return_Has_A.java)<br>
+             
+---
+
+## 📅 Day 12 - Basic
+
+### 📚 Topics Covered:
+
+* Final keyword
+
+### 💡 What I Learned:
+## Final Keyword
+* Final keyword is used to achieve constant in java.
+* constant means the value of final variable will not change throughout the program.
+* We can make variable, method and class as final.
+* Naming convesion of final variable is in camel case.
+* We need to intialie the final variable at the time of declaration or inside the constructor.
+* We can make local variable as final.
+* if we make a reference variable as final then it can't point to any other object.
+👉 File: [Method_parameter.java](./Method_parameter.java)<br>
           
           
 ---
-
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
