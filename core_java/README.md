@@ -465,6 +465,25 @@ while(i<=5);
 
 
 👉 File: [Final.java](./Final.java)<br>
+                  
+---
+
+## 📅 Day 13 - Basic
+
+### 📚 Topics Covered:
+
+* static keyword
+
+### 💡 What I Learned:
+## Static Keyword
+* It means single copy of class level
+* One copy is sharable for all objects
+* If a varible is static then the memory created for object is single and only the updated value of variable will beplace the old value.
+* static means memory is only one use for all object
+* Non static means the memory is saperate for each object
+
+
+👉 File: [Final.java](./Final.java)<br>
           
           
 ---
