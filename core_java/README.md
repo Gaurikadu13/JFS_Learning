@@ -483,7 +483,7 @@ while(i<=5);
 * Non static means the memory is saperate for each object
 
 
-👉 File: [Final.java](./Final.java)<br>
+👉 File: [Static.java](./Static.java)<br>
           
           
 ---
