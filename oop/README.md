@@ -18,7 +18,7 @@ This folder contains my daily oop practice and notes.
 * The programming langauge which use this concept call OOP langauge, Thus java is the OOP language.
 * This concept is begin from class and object.
 
-## Piillers of OOP
+## Piillers of OOP 🧩  
 1. Inheritance
 2. Polymorphism
 3. Abstraction
@@ -32,16 +32,14 @@ This folder contains my daily oop practice and notes.
 * Object class is the top most class in java
 * "extends" keyword is use for inheritance in java.
 
-#### Types of Inheritance
+#### Types of Inheritance 🧩
 1. Single-level inheritance --->   parent<-----child
 2. Multi-level inheritance --->   parent<----child<------child
 3. Heirarchial inheritance --->    child----->parent<---child
 4. Mutliple inheritance --->Not support by java
 5. Hybrid inheritance --->Not support by java
 
-👉 File: [IF.java](./IF.java)<br>
-          [If_else.java](./If_else.java)<br>
-          [Else_if.java](./Else_if.java)<br>
+👉 File: [With_Inheritance.java](./With_Inheritance.java)<br>
           
 ---
 ## 🎯 Goal
