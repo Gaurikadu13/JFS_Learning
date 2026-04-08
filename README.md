@@ -1,7 +1,8 @@
 # 📚 JFS Learning Repository
 
 This repository contains my learning journey in **Java Full Stack Development (JFS)** 🚀  
-Java Full Stack Development learning repository with hands-on practice in Core Java, OOP, and backend development, showcasing practical coding skills
+It covers **Core Java concepts** and now I am starting **Object-Oriented Programming (OOP)**.
+
 ---
 
 ## 🎯 Objective
