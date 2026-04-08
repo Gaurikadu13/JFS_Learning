@@ -1,58 +1,60 @@
 # 📚 JFS Learning Repository
 
 This repository contains my learning journey in **Java Full Stack Development (JFS)** 🚀  
-It covers **Core Java concepts** and now I am starting **Object-Oriented Programming (OOP)**.
-
+Java Full Stack Development learning repository with hands-on practice in Core Java, OOP, and backend development, showcasing practical coding skills.
 ---
 
 ## 🎯 Objective
 
 - Build a strong foundation in Core Java 💡  
-- Understand Object-Oriented Programming concepts 🧠  
-- Practice coding step by step ⚡  
-- Improve problem-solving skills 📈  
-- Track my learning journey consistently 🚀  
+- Practice programming concepts step by step 🧠  
+- Improve problem-solving skills ⚡  
+- Track learning progress 📈  
 
 ---
 
 ## 📂 Project Structure
 
-
+```
 JFS_Learning/
 │
-├── core_java/
-├── OOP/
-│
+├── core_java/  
+├── oop/
 └── README.md
-
+```
 
 ---
 
 ## 📘 Core Java
 
 All Core Java programs are stored inside the **`core_java`** folder 📁  
+It includes programs from basic concepts to constructors.
 
-### 📂 Topics Covered
+---
+
+## 📂 Topics Covered
 
 - Basics of Java  
 - Data Types and Variables  
 - Operators  
 - Conditional Statements (if-else, switch)  
-- Loops (for, while, do-while)  
+- Loops (for, while, do-while)   
 - Methods  
 - Classes and Objects  
 - Constructors  
 
 ---
 
-## 📘 Object-Oriented Programming (OOP)
+## 📘 OOP
 
 All OOP programs are stored inside the **`OOP`** folder 📁  
+It includes programs from Introduction to Encapsulation
 
-### 📂 Topics Covered
+---
 
-- Introduction to OOP  
-- Encapsulation (In Progress) 🔄  
+## 📂 Topics Covered
+
+- Introduction
 
 ---
 
@@ -60,7 +62,7 @@ All OOP programs are stored inside the **`OOP`** folder 📁
 
 - Java ☕  
 - VS Code / IntelliJ IDEA 💻  
-- Git & GitHub 🔧  
+- Git and GitHub 🔧  
 
 ---
 
@@ -69,41 +71,49 @@ All OOP programs are stored inside the **`OOP`** folder 📁
 1. Clone the repository  
    ```bash
    git clone https://github.com/Gaurikadu13/JFS_Learning.git
+   ```
 
-Navigate to project folder
+2. Go to project folder  
+   ```bash
+   cd JFS_Learning
+   ```
 
-cd JFS_Learning
+3. Navigate to core_java folder  
+   ```bash
+   cd core_java
+   ```
 
-Go to desired folder
+4. Compile the program  
+   ```bash
+   javac FileName.java
+   ```
 
-cd core_java
+5. Run the program  
+   ```bash
+   java FileName
+   ```
 
-OR
+---
 
-cd OOP
-
-Compile the program
-
-javac FileName.java
-
-Run the program
-
-java FileName
-📈 Current Status
+## 📈 Current Status
 
 ✅ Completed: Core Java (till Constructors)
-🔄 OOP Started
 
-🔜 Upcoming Topics
-Inheritance
-Polymorphism
-Abstraction
-Encapsulation
-👩‍💻 Author
+🔜 Upcoming Topics:
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Encapsulation  
 
-Gauri Kadu
-CSE Student | Aspiring Full Stack Developer 🚀
+---
 
-⭐ Support
+## 👩‍💻 Author
+
+Gauri Kadu  
+CSE Student | Aspiring Full Stack Developer 🚀  
+
+---
+
+## ⭐ Support
 
 If you like this repository, don’t forget to give it a ⭐
