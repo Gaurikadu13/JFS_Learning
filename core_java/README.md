@@ -484,9 +484,9 @@ while(i<=5);
 
 
 👉 File: [Static.java](./Static.java)<br>
-          
-          
+            
 ---
+
 ## 🎯 Goal
 
 * Build a strong foundation in Core Java
