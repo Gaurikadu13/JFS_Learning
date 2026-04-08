@@ -32,7 +32,7 @@ This folder contains my daily oop practice and notes.
 * Object class is the top most class in java
 * "extends" keyword is use for inheritance in java.
 
-#### Types of Inheritance 🧩
+#### Types of Inheritance 🏗️
 1. Single-level inheritance --->   parent<-----child
 2. Multi-level inheritance --->   parent<----child<------child
 3. Heirarchial inheritance --->    child----->parent<---child
